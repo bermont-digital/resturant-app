@@ -25,7 +25,6 @@
         mdi-plus
       </v-icon>
     </v-btn>
-    <!-- <v-btn class="add-table-button" width="300px" fixed bottom @click="tableCounter += 1 ">Add Table</v-btn> -->
   </div>
 </template>
 
