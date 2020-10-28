@@ -3,6 +3,14 @@
     "name": "tables",
     "path": "/tables",
     "component": "/Users/StefanoMontanari/Desktop/CODE/ResturantApp/Porky/pages/tables/index.vue",
-    "chunkName": "pages/tables/index"
+    "chunkName": "pages/tables/index",
+    "_name": "_f38fee8c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/StefanoMontanari/Desktop/CODE/ResturantApp/Porky/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6b21cba0"
   }
 ]

@@ -96,11 +96,11 @@ export default {
       drawer: false,
       fixed: false,
       items: [
-        {
-          icon: 'mdi-table',
-          title: 'Tables',
-          to: '/tables'
-        },
+        // {
+        //   icon: 'mdi-table',
+        //   title: 'Tables',
+        //   to: '/tables'
+        // },
       ],
       miniVariant: false,
       right: true,
